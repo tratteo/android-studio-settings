@@ -4,6 +4,16 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-e47ffcd6-HFoexJ._adb-tls-connect._tcp" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="SERIAL_NUMBER" />
             <value value="e47ffcd6" />
           </Key>
