@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="25fca533-32cf-441f-a601-c65b789d2879" type="AUTO_DETECTED" />
+      <mapping pattern="bookmarks" type="AUTO_DETECTED" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
